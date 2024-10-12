@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\bin\Debug\7.int_degiskenler_son.exe.config
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\bin\Debug\7.int_degiskenler_son.exe
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\bin\Debug\7.int_degiskenler_son.pdb
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\7.int_degiskenler_son.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\_7.int_degiskenler_son.Form1.resources
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\_7.int_degiskenler_son.Properties.Resources.resources
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\7.int_degiskenler_son.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\7.int_degiskenler_son.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\7.int_degiskenler_son.exe
+C:\Users\furka\source\repos\7.int_degiskenler_son\7.int_degiskenler_son\obj\Debug\7.int_degiskenler_son.pdb

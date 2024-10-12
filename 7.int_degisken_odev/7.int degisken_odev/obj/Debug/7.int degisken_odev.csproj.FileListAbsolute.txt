@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\7.int degisken_odev.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\_7.int_degisken_odev.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\_7.int_degisken_odev.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\7.int degisken_odev.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\7.int degisken_odev.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\bin\Debug\7.int degisken_odev.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\bin\Debug\7.int degisken_odev.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\bin\Debug\7.int degisken_odev.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\7.int degisken_odev.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int degisken_odev\7.int degisken_odev\obj\Debug\7.int degisken_odev.pdb

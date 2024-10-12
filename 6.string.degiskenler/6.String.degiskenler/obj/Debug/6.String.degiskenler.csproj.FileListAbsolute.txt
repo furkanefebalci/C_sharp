@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\bin\Debug\6.String.degiskenler.exe.config
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\bin\Debug\6.String.degiskenler.exe
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\bin\Debug\6.String.degiskenler.pdb
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\6.String.degiskenler.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\_6.String.degiskenler.Form1.resources
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\_6.String.degiskenler.Properties.Resources.resources
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\6.String.degiskenler.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\6.String.degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\6.String.degiskenler.exe
+C:\Users\furka\source\repos\6.String.degiskenler\6.String.degiskenler\obj\Debug\6.String.degiskenler.pdb

@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\bin\Debug\7.int_degisken_odev2.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\bin\Debug\7.int_degisken_odev2.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\bin\Debug\7.int_degisken_odev2.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\7.int_degisken_odev2.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\_7.int_degisken_odev2.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\_7.int_degisken_odev2.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\7.int_degisken_odev2.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\7.int_degisken_odev2.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\7.int_degisken_odev2.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\7.int_degisken_odev2\7.int_degisken_odev2\obj\Debug\7.int_degisken_odev2.pdb

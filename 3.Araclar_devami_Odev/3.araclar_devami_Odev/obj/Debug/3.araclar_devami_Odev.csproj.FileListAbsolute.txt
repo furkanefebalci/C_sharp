@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\bin\Debug\3.araclar_devami_Odev.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\bin\Debug\3.araclar_devami_Odev.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\bin\Debug\3.araclar_devami_Odev.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\3.araclar_devami_Odev.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\_3.araclar_devami_Odev.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\_3.araclar_devami_Odev.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\3.araclar_devami_Odev.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\3.araclar_devami_Odev.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\3.araclar_devami_Odev.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\3.araclar_devami_Odev\3.araclar_devami_Odev\obj\Debug\3.araclar_devami_Odev.pdb

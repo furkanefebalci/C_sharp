@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\bin\Debug\11.if_else.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\bin\Debug\11.if_else.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\bin\Debug\11.if_else.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\11.if_else.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\_11.if_else.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\_11.if_else.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\11.if_else.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\11.if_else.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\11.if_else.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\11.if_else\11.if_else\obj\Debug\11.if_else.pdb

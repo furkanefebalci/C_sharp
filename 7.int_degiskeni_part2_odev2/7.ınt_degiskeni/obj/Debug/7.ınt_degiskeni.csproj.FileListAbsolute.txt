@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\bin\Debug\7.ınt_degiskeni.exe.config
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\bin\Debug\7.ınt_degiskeni.exe
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\bin\Debug\7.ınt_degiskeni.pdb
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\7.ınt_degiskeni.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\_7.ınt_degiskeni.Form1.resources
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\_7.ınt_degiskeni.Properties.Resources.resources
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\7.ınt_degiskeni.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\7.ınt_degiskeni.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\7.ınt_degiskeni.exe
+C:\Users\furka\source\repos\7.ınt_degiskeni\7.ınt_degiskeni\obj\Debug\7.ınt_degiskeni.pdb

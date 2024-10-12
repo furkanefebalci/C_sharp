@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\bin\Debug\4.login_paneli_proje.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\bin\Debug\4.login_paneli_proje.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\bin\Debug\4.login_paneli_proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\4.login_paneli_proje.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\_4.login_paneli_proje.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\_4.login_paneli_proje.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\4.login_paneli_proje.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\4.login_paneli_proje.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\4.login_paneli_proje.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\4.login_paneli_proje\4.login_paneli_proje\obj\Debug\4.login_paneli_proje.pdb

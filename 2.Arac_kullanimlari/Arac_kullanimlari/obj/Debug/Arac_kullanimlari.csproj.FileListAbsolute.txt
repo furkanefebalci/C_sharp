@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\bin\Debug\Arac_kullanimlari.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\bin\Debug\Arac_kullanimlari.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\bin\Debug\Arac_kullanimlari.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\Arac_kullanimlari\Arac_kullanimlari\obj\Debug\Arac_kullanimlari.pdb
