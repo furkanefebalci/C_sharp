@@ -8,3 +8,13 @@ C:\Users\furka\source\repos\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\
 C:\Users\furka\source\repos\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.csproj.CoreCompileInputs.cache
 C:\Users\furka\source\repos\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.exe
 C:\Users\furka\source\repos\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\bin\Debug\11.if_else_alistirma.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\bin\Debug\11.if_else_alistirma.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\bin\Debug\11.if_else_alistirma.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\_11.if_else_alistirma.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\_11.if_else_alistirma.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\11.if_else_alistirma\11.if_else_alistirma\obj\Debug\11.if_else_alistirma.pdb

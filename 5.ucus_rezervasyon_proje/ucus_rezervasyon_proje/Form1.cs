@@ -39,6 +39,7 @@ namespace ucus_rezervasyon_proje
             label9.Text = comboBox2.Text;
             comboBox2.Text = comboBox1.Text;
             comboBox1.Text = label9.Text;
+            //Degistirme butonu kodu.
 
         }
     }

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\3.Araclar_devami_Odev\\",
+  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\3.Araclar_devami_Odev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{082BD438-8C35-400A-8B3E-166825F5F4FE}|3.araclar_devami_Odev\\3.araclar_devami_Odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\3.araclar_devami_odev\\3.araclar_devami_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{082BD438-8C35-400A-8B3E-166825F5F4FE}|3.araclar_devami_Odev\\3.araclar_devami_Odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\3.araclar_devami_odev\\3.araclar_devami_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{082BD438-8C35-400A-8B3E-166825F5F4FE}|3.araclar_devami_Odev\\3.araclar_devami_Odev.csproj|solutionrelative:3.araclar_devami_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082BD438-8C35-400A-8B3E-166825F5F4FE}|3.araclar_devami_Odev\\3.araclar_devami_Odev.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\3.Araclar_devami_Odev\\3.araclar_devami_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{082BD438-8C35-400A-8B3E-166825F5F4FE}|3.araclar_devami_Odev\\3.araclar_devami_Odev.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\3.Araclar_devami_Odev\\3.araclar_devami_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{082BD438-8C35-400A-8B3E-166825F5F4FE}|3.araclar_devami_Odev\\3.araclar_devami_Odev.csproj|solutionrelative:3.araclar_devami_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,19 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs",
               "RelativeDocumentMoniker": "3.araclar_devami_Odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs",
               "RelativeToolTip": "3.araclar_devami_Odev\\Form1.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs",
               "RelativeDocumentMoniker": "3.araclar_devami_Odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\3.Araclar_devami_Odev\\3.araclar_devami_Odev\\Form1.cs [Design]",
               "RelativeToolTip": "3.araclar_devami_Odev\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T08:33:55.633Z",

@@ -30,11 +30,11 @@ namespace _6.string_odev
         private void button1_Click(object sender, EventArgs e)
         {
             string isim, soyisim, meslek, yas, cinsiyet;
-            isim =  "İsminiz: " +textBox1.Text;
-            soyisim = "Soyisminiz: " +textBox2.Text;
-            meslek = "Mesleğiniz: " +textBox3.Text;
+            isim =  "İsminiz: " + textBox1.Text;
+            soyisim = "Soyisminiz: " + textBox2.Text;
+            meslek = "Mesleğiniz: " + textBox3.Text;
             yas = "Yaşınız:" + maskedTextBox1.Text;
-            cinsiyet = "Cinsiyetiniz:" +textBox4.Text;
+            cinsiyet = "Cinsiyetiniz:" + textBox4.Text;
 
             listBox1.Items.Add(isim);
             listBox1.Items.Add(soyisim);
@@ -47,9 +47,6 @@ namespace _6.string_odev
             textbox2 olsun  hepsi için bir değişken tanıdım bu programdaki amacım 
             textboxtaki yazıları listboxa yazdırmak.
              */
-
-
-
         }
     }
 }

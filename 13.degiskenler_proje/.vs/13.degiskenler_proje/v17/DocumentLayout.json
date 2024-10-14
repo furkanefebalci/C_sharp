@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\13.degiskenler_proje\\",
+  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\13.degiskenler_proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\13.degiskenler_proje\\13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|solutionrelative:13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\13.degiskenler_proje\\13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|solutionrelative:13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\13.degiskenler_proje\\13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|solutionrelative:13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\13.degiskenler_proje\\13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB462092-2DB7-4BA6-BCAE-32AACBB03417}|13.degiskenler_proje\\13.degiskenler_proje.csproj|solutionrelative:13.degiskenler_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,29 +21,25 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs",
               "RelativeDocumentMoniker": "13.degiskenler_proje\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs",
               "RelativeToolTip": "13.degiskenler_proje\\Form1.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAqwL4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAqwJcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T22:02:31.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs",
               "RelativeDocumentMoniker": "13.degiskenler_proje\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\13.degiskenler_proje\\13.degiskenler_proje\\Form1.cs [Design]",
               "RelativeToolTip": "13.degiskenler_proje\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T20:33:45.716Z",

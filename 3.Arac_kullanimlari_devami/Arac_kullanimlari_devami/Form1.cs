@@ -24,7 +24,11 @@ namespace Arac_kullanimlari_devami
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(maskedTextBox1.Text + " " + maskedTextBox2.Text + " " + maskedTextBox3.Text + " " + maskedTextBox4.Text);
+            listBox1.Items.Add("Telefon No:" + maskedTextBox1.Text);
+            listBox1.Items.Add("TC NO: " + maskedTextBox2.Text);
+            listBox1.Items.Add("Tarih: " + maskedTextBox3.Text);
+            listBox1.Items.Add("Saat : " + maskedTextBox4.Text);
+
         }
 
         private void button2_Click(object sender, EventArgs e)

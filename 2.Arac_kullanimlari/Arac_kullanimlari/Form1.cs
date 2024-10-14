@@ -19,7 +19,7 @@ namespace Arac_kullanimlari
 
         private void button1_Click(object sender, EventArgs e)
         {
-            comboBox1.Items.Add("Uşak");
+          
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -29,15 +29,11 @@ namespace Arac_kullanimlari
 
         private void button2_Click(object sender, EventArgs e)
         {
-            comboBox1.Items.Add(textBox1.Text);
 
-            //Bu kod texboxtaki yazıyı combox1 e atar, buttona basarsam. 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add("Enes");
-            listBox1.Items.Add("Kuzey");
             
 
         }
@@ -64,6 +60,17 @@ namespace Arac_kullanimlari
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            listBox1.Items.Add("İsminiz: " + textBox1.Text );
+            listBox1.Items.Add("Soy isminiz: " + textBox2.Text);
+            listBox1.Items.Add("Mesleğiniz: " + textBox3.Text);
+           
+            
+            
 
         }
     }

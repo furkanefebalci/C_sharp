@@ -18,3 +18,13 @@ C:\Users\furka\OneDrive\Masaüstü\github\C#\8.double_degiskenler\8._double_degi
 C:\Users\furka\OneDrive\Masaüstü\github\C#\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.csproj.CoreCompileInputs.cache
 C:\Users\furka\OneDrive\Masaüstü\github\C#\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.exe
 C:\Users\furka\OneDrive\Masaüstü\github\C#\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\bin\Debug\8._double_degiskenler.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\bin\Debug\8._double_degiskenler.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\bin\Debug\8._double_degiskenler.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\_8._double_degiskenler.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\_8._double_degiskenler.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\8.double_degiskenler\8._double_degiskenler\obj\Debug\8._double_degiskenler.pdb

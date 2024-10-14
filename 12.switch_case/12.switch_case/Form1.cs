@@ -31,10 +31,6 @@ namespace _12.switch_case
                 case "kıs": label2.Text = "Aralık Ocak Şubat";
                     break;
                 default: label2.Text = "Hatalı mevsim"; break;
-
-
-
-            
             }
         }
     }

@@ -24,12 +24,11 @@ namespace Odev
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(textBox1.Text+ " " + textBox2.Text+ " " +textBox3.Text+ " " +textBox4.Text+ " " +textBox5.Text);
-            /*
-             Bu kod önce textboxtaki yazıyı alıyor sonra aynı işlemi 
-            2.ci texbox için yapıyor vb. yan yana yazdırıyor 
-             + " " + bu işaret araya bir boşluk atıyor.
-            */
+            listBox1.Items.Add("Adınız: " + textBox1.Text);
+            listBox1.Items.Add("Soy Adınız: " + textBox2.Text);
+            listBox1.Items.Add("Mesleğiniz: " + textBox3.Text);
+            listBox1.Items.Add("Maaşınız: " + textBox4.Text);
+            listBox1.Items.Add("Yaşadığınız şehir: " + textBox5.Text);
 
         }
 

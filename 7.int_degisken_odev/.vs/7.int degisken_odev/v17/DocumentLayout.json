@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\7.int degisken_odev\\",
+  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\7.int_degisken_odev\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D844A96F-D0A1-4C5C-A9D5-F582D7FB21E9}|7.int degisken_odev\\7.int degisken_odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\7.int degisken_odev\\7.int degisken_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D844A96F-D0A1-4C5C-A9D5-F582D7FB21E9}|7.int degisken_odev\\7.int degisken_odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\7.int_degisken_odev\\7.int degisken_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D844A96F-D0A1-4C5C-A9D5-F582D7FB21E9}|7.int degisken_odev\\7.int degisken_odev.csproj|solutionrelative:7.int degisken_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D844A96F-D0A1-4C5C-A9D5-F582D7FB21E9}|7.int degisken_odev\\7.int degisken_odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\7.int degisken_odev\\7.int degisken_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D844A96F-D0A1-4C5C-A9D5-F582D7FB21E9}|7.int degisken_odev\\7.int degisken_odev.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\7.int_degisken_odev\\7.int degisken_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D844A96F-D0A1-4C5C-A9D5-F582D7FB21E9}|7.int degisken_odev\\7.int degisken_odev.csproj|solutionrelative:7.int degisken_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\7.int degisken_odev\\7.int degisken_odev\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\7.int_degisken_odev\\7.int degisken_odev\\Form1.cs",
               "RelativeDocumentMoniker": "7.int degisken_odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\7.int degisken_odev\\7.int degisken_odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\7.int_degisken_odev\\7.int degisken_odev\\Form1.cs",
               "RelativeToolTip": "7.int degisken_odev\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T18:59:37.507Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\7.int degisken_odev\\7.int degisken_odev\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\7.int_degisken_odev\\7.int degisken_odev\\Form1.cs",
               "RelativeDocumentMoniker": "7.int degisken_odev\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\7.int degisken_odev\\7.int degisken_odev\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\7.int_degisken_odev\\7.int degisken_odev\\Form1.cs [Design]",
               "RelativeToolTip": "7.int degisken_odev\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T18:41:18.415Z",

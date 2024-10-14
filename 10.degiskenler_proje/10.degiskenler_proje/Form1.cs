@@ -40,6 +40,7 @@ namespace _10.degiskenler_proje
             //tam sayi girmek için ınt e çevirdik
 
             toplam = misir * 20 + cay * 8 + su * 5 + bilet * 30 + biskuvi * 14;
+
             lblToplam.Text = toplam.ToString() + " TL";
             kasatutar = kasatutar + toplam;
             lblKasa.Text = kasatutar.ToString() + " TL";
@@ -68,6 +69,7 @@ namespace _10.degiskenler_proje
             txtbiskuvi.Text = " ";
             txtMisir.Text = " ";
             txtMisir.Focus();
+            //Bu kod temizle butonuna bastıktan sonra imlecin mısıra gelmesine ve hesabı temizlemesine yarar.
         }
     }
 }

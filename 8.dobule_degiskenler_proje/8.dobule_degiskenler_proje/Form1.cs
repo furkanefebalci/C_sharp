@@ -30,18 +30,6 @@ namespace _8.dobule_degiskenler_proje
             proje = Convert.ToInt16(textBox5.Text);
             ort = (s1 + s2 + proje) / 3;
             listBox1.Items.Add("Adınız:"  + ad + " \n " + "Soyadınız:" + soyad  + " \n " + "Ortalamanız:" + ort);
-
-
-
-
-
-
-
-           
-
-
-
-
         }
     }
 }

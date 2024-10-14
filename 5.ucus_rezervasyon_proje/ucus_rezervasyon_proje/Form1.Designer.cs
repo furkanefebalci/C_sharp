@@ -307,11 +307,11 @@
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Segoe Print", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(75, -3);
+            this.label8.Location = new System.Drawing.Point(16, -3);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(695, 112);
+            this.label8.Size = new System.Drawing.Size(742, 112);
             this.label8.TabIndex = 0;
-            this.label8.Text = "Furkan Hava Yolları";
+            this.label8.Text = "Olympus Hava yolları";
             // 
             // Form1
             // 

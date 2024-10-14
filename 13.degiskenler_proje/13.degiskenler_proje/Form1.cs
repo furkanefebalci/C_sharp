@@ -189,12 +189,7 @@ namespace _13.degiskenler_proje
                 btnD.Enabled = false;
                 btnSonraki.Enabled = false;
                 MessageBox.Show("Doğru: " + dogru + "\n" + "Yanlış: " + yanlis);
-
-            
             }
-
-         
-
         }
     }
 }

@@ -31,17 +31,9 @@ namespace _7.int_degisken_odev2
             sınav2 = 90;
             sınav3 = 70;
 
-            ortalama = sınav1 + sınav2 + sınav3 ;
+            ortalama = sınav1 + sınav2 + sınav3;
 
-          
-
-            label1.Text = "Okul Ortalamanız; " + ortalama/3 ; 
-
-
-
-
-            
-            
+            label1.Text = "Okul Ortalamanız; " + ortalama/3 ;    
         }
     }
 }

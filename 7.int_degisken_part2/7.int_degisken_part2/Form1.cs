@@ -24,27 +24,6 @@ namespace _7.int_degisken_part2
             sonuc = sayi * sayi * sayi;
 
             label2.Text = sonuc.ToString();
-
-
-
-
-
-
-
-
-
-
-
-
-
-            /*int sayi;
-            sayi = Convert.ToInt16(textBox1.Text);
-            label2.Text = sayi.ToString();
-
-         string int oldu sonra string değişkenli bir araca yazdırmak için ise tekrardan inti stringe yazdırdım 
-          Bir şey anlamadım bunu abime sor.
-
-         */
         }
     } 
 }

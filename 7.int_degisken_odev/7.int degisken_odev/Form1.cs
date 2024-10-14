@@ -19,16 +19,13 @@ namespace _7.int_degisken_odev
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int uzunkenar, kısakenar, alan, cevre, toplam;
+            int uzunkenar, kısakenar, alan, cevre;
 
             uzunkenar = 20;
             kısakenar = 10;
             cevre = uzunkenar + kısakenar;
             alan = kısakenar * uzunkenar;
             label1.Text = "Cevre: " + cevre + "\nAlan: " + alan;
-
-
-           
         }
     }
 }

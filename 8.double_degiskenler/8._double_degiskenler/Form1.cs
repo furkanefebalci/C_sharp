@@ -27,7 +27,6 @@ namespace _8._double_degiskenler
             ort = (s1 + s2 + s3) / 3;
 
             label1.Text = ort.ToString("0.00");
-
         }
     }
 }

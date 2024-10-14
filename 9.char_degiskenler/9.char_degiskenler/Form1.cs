@@ -23,8 +23,6 @@ namespace _9.char_degiskenler
             char ders;
             ders = Convert.ToChar(textBox1.Text);
             label1.Text = ders.ToString();
-            
-
         }
     }
 }

@@ -25,25 +25,18 @@ namespace _11.if_else_alistirma
             s1 = Convert.ToDouble(textBox1.Text);
             s2 = Convert.ToDouble(textBox2.Text);
             s3 = Convert.ToDouble(textBox3.Text);
-             
-
+         
             ort = (s1 + s2 + s3) / 3;
 
            if (ort > 50)
             {
                 durum = "Geçtin";
-
             }
            else
             {
-                durum = "Kaldın";
-               
+                durum = "Kaldın"; 
             }
-            textBox4.Text = ort.ToString("0.00") + "" + durum;
-            
-
-
-
+            textBox4.Text = ort.ToString("0.00") + " " + durum;
         }
     }
 }
