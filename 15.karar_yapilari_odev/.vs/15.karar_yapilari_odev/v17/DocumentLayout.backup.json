@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\15.karar_yapilari_odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6DF95F-3705-48DE-90EA-63756041D579}|15.karar_yapilari_odev\\15.karar_yapilari_odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\15.karar_yapilari_odev\\15.karar_yapilari_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6DF95F-3705-48DE-90EA-63756041D579}|15.karar_yapilari_odev\\15.karar_yapilari_odev.csproj|solutionrelative:15.karar_yapilari_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6DF95F-3705-48DE-90EA-63756041D579}|15.karar_yapilari_odev\\15.karar_yapilari_odev.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\15.karar_yapilari_odev\\15.karar_yapilari_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6DF95F-3705-48DE-90EA-63756041D579}|15.karar_yapilari_odev\\15.karar_yapilari_odev.csproj|solutionrelative:15.karar_yapilari_odev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\15.karar_yapilari_odev\\15.karar_yapilari_odev\\Form1.cs",
+              "RelativeDocumentMoniker": "15.karar_yapilari_odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\15.karar_yapilari_odev\\15.karar_yapilari_odev\\Form1.cs",
+              "RelativeToolTip": "15.karar_yapilari_odev\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:19:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\15.karar_yapilari_odev\\15.karar_yapilari_odev\\Form1.cs",
+              "RelativeDocumentMoniker": "15.karar_yapilari_odev\\Form1.cs",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\15.karar_yapilari_odev\\15.karar_yapilari_odev\\Form1.cs [Design]",
+              "RelativeToolTip": "15.karar_yapilari_odev\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:18:08.658Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

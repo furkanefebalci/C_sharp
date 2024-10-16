@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\bin\Debug\15.donguler_ve_karar_yapilari.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\bin\Debug\15.donguler_ve_karar_yapilari.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\bin\Debug\15.donguler_ve_karar_yapilari.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\15.donguler_ve_karar_yapilari.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\_15.donguler_ve_karar_yapilari.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\_15.donguler_ve_karar_yapilari.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\15.donguler_ve_karar_yapilari.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\15.donguler_ve_karar_yapilari.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\15.donguler_ve_karar_yapilari.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\15.donguler_ve_karar_yapilari\15.donguler_ve_karar_yapilari\obj\Debug\15.donguler_ve_karar_yapilari.pdb

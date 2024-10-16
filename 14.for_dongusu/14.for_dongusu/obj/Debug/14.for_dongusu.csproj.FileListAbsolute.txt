@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\bin\Debug\14.for_dongusu.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\bin\Debug\14.for_dongusu.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\bin\Debug\14.for_dongusu.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\14.for_dongusu.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\_14.for_dongusu.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\_14.for_dongusu.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\14.for_dongusu.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\14.for_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\14.for_dongusu.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_dongusu\14.for_dongusu\obj\Debug\14.for_dongusu.pdb

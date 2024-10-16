@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\bin\Debug\14.for_donguler_alistirma.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\bin\Debug\14.for_donguler_alistirma.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\bin\Debug\14.for_donguler_alistirma.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\14.for_donguler_alistirma.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\_14.for_donguler_alistirma.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\_14.for_donguler_alistirma.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\14.for_donguler_alistirma.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\14.for_donguler_alistirma.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\14.for_donguler_alistirma.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\14.for_donguler_alistirma\14.for_donguler_alistirma\obj\Debug\14.for_donguler_alistirma.pdb
