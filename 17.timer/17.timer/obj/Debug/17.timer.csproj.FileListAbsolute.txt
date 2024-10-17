@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\bin\Debug\17.timer.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\bin\Debug\17.timer.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\bin\Debug\17.timer.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\17.timer.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\_17.timer.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\_17.timer.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\17.timer.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\17.timer.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\17.timer.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\17.timer\17.timer\obj\Debug\17.timer.pdb

@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\16.while_dongusu.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\_16.while_dongusu.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\_16.while_dongusu.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\16.while_dongusu.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\16.while_dongusu.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\bin\Debug\16.while_dongusu.exe.config
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\bin\Debug\16.while_dongusu.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\bin\Debug\16.while_dongusu.pdb
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\16.while_dongusu.exe
+C:\Users\furka\OneDrive\Masaüstü\github\C#\C_sharp\16.while_dongusu\16.while_dongusu\obj\Debug\16.while_dongusu.pdb

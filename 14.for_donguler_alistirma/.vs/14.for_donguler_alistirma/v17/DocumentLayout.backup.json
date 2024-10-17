@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\14.for_donguler_alistirma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72DE8DE7-1765-404C-825C-BC35A7F294E3}|14.for_donguler_alistirma\\14.for_donguler_alistirma.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\14.for_donguler_alistirma\\14.for_donguler_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72DE8DE7-1765-404C-825C-BC35A7F294E3}|14.for_donguler_alistirma\\14.for_donguler_alistirma.csproj|solutionrelative:14.for_donguler_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72DE8DE7-1765-404C-825C-BC35A7F294E3}|14.for_donguler_alistirma\\14.for_donguler_alistirma.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\14.for_donguler_alistirma\\14.for_donguler_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{72DE8DE7-1765-404C-825C-BC35A7F294E3}|14.for_donguler_alistirma\\14.for_donguler_alistirma.csproj|solutionrelative:14.for_donguler_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DE8DE7-1765-404C-825C-BC35A7F294E3}|14.for_donguler_alistirma\\14.for_donguler_alistirma.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\14.for_donguler_alistirma\\14.for_donguler_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DE8DE7-1765-404C-825C-BC35A7F294E3}|14.for_donguler_alistirma\\14.for_donguler_alistirma.csproj|solutionrelative:14.for_donguler_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\14.for_donguler_alistirma\\14.for_donguler_alistirma\\Form1.cs",
               "RelativeDocumentMoniker": "14.for_donguler_alistirma\\Form1.cs",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\14.for_donguler_alistirma\\14.for_donguler_alistirma\\Form1.cs",
               "RelativeDocumentMoniker": "14.for_donguler_alistirma\\Form1.cs",
