@@ -130,7 +130,7 @@
             this.btnSonraki.Name = "btnSonraki";
             this.btnSonraki.Size = new System.Drawing.Size(164, 43);
             this.btnSonraki.TabIndex = 11;
-            this.btnSonraki.Text = "Sonraki Soru";
+            this.btnSonraki.Text = "Next question";
             this.btnSonraki.UseVisualStyleBackColor = true;
             this.btnSonraki.Click += new System.EventHandler(this.btnSonraki_Click);
             // 
@@ -209,7 +209,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 26F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(943, 569);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.ClientSize = new System.Drawing.Size(911, 470);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.lblYanlis);
@@ -227,7 +228,7 @@
             this.Controls.Add(this.btnA);
             this.Controls.Add(this.richTextBox1);
             this.Font = new System.Drawing.Font("Corbel", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

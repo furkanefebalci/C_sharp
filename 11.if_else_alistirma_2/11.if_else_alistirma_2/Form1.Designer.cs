@@ -38,9 +38,9 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(331, 181);
-            this.button1.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.button1.Margin = new System.Windows.Forms.Padding(7);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(175, 51);
+            this.button1.Size = new System.Drawing.Size(190, 51);
             this.button1.TabIndex = 0;
             this.button1.Text = "Hesapla";
             this.button1.UseVisualStyleBackColor = true;
@@ -89,14 +89,14 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
-            this.ClientSize = new System.Drawing.Size(1011, 606);
+            this.ClientSize = new System.Drawing.Size(836, 345);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.Margin = new System.Windows.Forms.Padding(7, 7, 7, 7);
+            this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

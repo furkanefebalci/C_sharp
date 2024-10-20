@@ -32,8 +32,6 @@ namespace _11.if_else_alistirma_2
             bu satılan kitabı 8 ile çarpıp yani fiyatı ile 
             sonrasında o fiyatın %20 sini çıkartmamıza yarar !!
              */
-           
-            
 
             int kitapadet;
             double toplam;
@@ -55,9 +53,7 @@ namespace _11.if_else_alistirma_2
             {
                 toplam = (kitapadet * 8) - (kitapadet * 8 * 0.50);
                 label3.Text = toplam + " TL";
-            }
-
-            
+            }  
         }
     }
 }

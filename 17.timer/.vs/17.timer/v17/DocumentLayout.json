@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\17.timer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5239F39-B5C8-46F3-9CE2-92710CC71A66}|17.timer\\17.timer.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\17.timer\\17.timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5239F39-B5C8-46F3-9CE2-92710CC71A66}|17.timer\\17.timer.csproj|solutionrelative:17.timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5239F39-B5C8-46F3-9CE2-92710CC71A66}|17.timer\\17.timer.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\17.timer\\17.timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B5239F39-B5C8-46F3-9CE2-92710CC71A66}|17.timer\\17.timer.csproj|solutionrelative:17.timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5239F39-B5C8-46F3-9CE2-92710CC71A66}|17.timer\\17.timer.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\17.timer\\17.timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5239F39-B5C8-46F3-9CE2-92710CC71A66}|17.timer\\17.timer.csproj|solutionrelative:17.timer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\17.timer\\17.timer\\Form1.cs",
               "RelativeDocumentMoniker": "17.timer\\Form1.cs",
               "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\17.timer\\17.timer\\Form1.cs",
               "RelativeToolTip": "17.timer\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:21:38.218Z",
+              "WhenOpened": "2024-10-19T14:22:27.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\17.timer\\17.timer\\Form1.cs",
               "RelativeDocumentMoniker": "17.timer\\Form1.cs",

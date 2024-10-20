@@ -26,11 +26,7 @@ namespace _16.do_while_donguleri
                 listBox1.Items.Add("David Goggins");
                 i++;
             }
-            while (i <= 10);
-
-
-
-            
+            while (i <= 10); 
         }
     }
 }

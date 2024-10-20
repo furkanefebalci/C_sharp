@@ -28,16 +28,18 @@ namespace _17.timer
 
             label1.Text = sayac.ToString();
 
+            if( sayac == 5)
+            {
+                this.BackColor = Color.Olive;
+            }
             if( sayac == 10)
             {
-                this.BackColor = Color.Bisque;
+                this.BackColor = Color.Purple;
             }
-            if( sayac == 20)
-            {
-                this.BackColor = Color.CadetBlue;
-            }
-            if (sayac == 30) {    
+            if (sayac == 15) {    
+                this.BackColor = Color.Pink;
                 sayac = 0;
+
             }
         }
     }

@@ -22,15 +22,15 @@ namespace _12.switch_case
             string mevsim = textBox1.Text;
             switch (mevsim) {
 
-                case "yaz":label2.Text = "Haziran temmuz, ağustos";
+                case "Summer":label2.Text = "June july \n August";
                     break;
-                case "ılkbahar": label2.Text = "Mart Nisan Mayıs";
+                case "Spring": label2.Text = "March April \n May";
                         break;
-                case "sonbahar": label2.Text = "Eylül Ekim Kasım";
+                case "Autumn": label2.Text = "September October \n November";
                         break;
-                case "kıs": label2.Text = "Aralık Ocak Şubat";
+                case "Winter": label2.Text = "December January \n February";
                     break;
-                default: label2.Text = "Hatalı mevsim"; break;
+                default: label2.Text = "İncorrect Entry"; break;
             }
         }
     }

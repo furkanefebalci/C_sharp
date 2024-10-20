@@ -30,14 +30,14 @@ namespace _10.degiskenler_proje
         private void button1_Click(object sender, EventArgs e)
         {
 
-            int misir, cay, bilet,su, toplam, biskuvi;
+            int misir, cay, bilet, su, toplam, biskuvi;
 
             biskuvi = Convert.ToInt16(txtbiskuvi.Text);
             misir = Convert.ToInt16(txtMisir.Text);
             bilet = Convert.ToInt16(txtBilet.Text);
             su = Convert.ToInt16(txtSu.Text);
             cay = Convert.ToInt16(txtCay.Text);
-            //tam sayi girmek için ınt e çevirdik
+            //tam sayi girmek için int'e çevirdik
 
             toplam = misir * 20 + cay * 8 + su * 5 + bilet * 30 + biskuvi * 14;
 

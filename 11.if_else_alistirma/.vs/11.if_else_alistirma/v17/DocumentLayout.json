@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\11.if_else_alistirma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B7BC0CE-EAE5-4025-B31E-83A8EFBD87CE}|11.if_else_alistirma\\11.if_else_alistirma.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\11.if_else_alistirma\\11.if_else_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5B7BC0CE-EAE5-4025-B31E-83A8EFBD87CE}|11.if_else_alistirma\\11.if_else_alistirma.csproj|solutionrelative:11.if_else_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B7BC0CE-EAE5-4025-B31E-83A8EFBD87CE}|11.if_else_alistirma\\11.if_else_alistirma.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\11.if_else_alistirma\\11.if_else_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B7BC0CE-EAE5-4025-B31E-83A8EFBD87CE}|11.if_else_alistirma\\11.if_else_alistirma.csproj|solutionrelative:11.if_else_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7BC0CE-EAE5-4025-B31E-83A8EFBD87CE}|11.if_else_alistirma\\11.if_else_alistirma.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\11.if_else_alistirma\\11.if_else_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B7BC0CE-EAE5-4025-B31E-83A8EFBD87CE}|11.if_else_alistirma\\11.if_else_alistirma.csproj|solutionrelative:11.if_else_alistirma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\11.if_else_alistirma\\11.if_else_alistirma\\Form1.cs",
               "RelativeDocumentMoniker": "11.if_else_alistirma\\Form1.cs",
               "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\11.if_else_alistirma\\11.if_else_alistirma\\Form1.cs",
               "RelativeToolTip": "11.if_else_alistirma\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T11:04:19.402Z",
               "IsPinned": true,
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\11.if_else_alistirma\\11.if_else_alistirma\\Form1.cs",
               "RelativeDocumentMoniker": "11.if_else_alistirma\\Form1.cs",

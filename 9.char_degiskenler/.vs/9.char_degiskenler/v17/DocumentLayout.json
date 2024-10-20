@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\9.char_degiskenler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F416EB5-8413-48D5-8876-CA4D35C6EF6B}|9.char_degiskenler\\9.char_degiskenler.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\9.char_degiskenler\\9.char_degiskenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F416EB5-8413-48D5-8876-CA4D35C6EF6B}|9.char_degiskenler\\9.char_degiskenler.csproj|solutionrelative:9.char_degiskenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F416EB5-8413-48D5-8876-CA4D35C6EF6B}|9.char_degiskenler\\9.char_degiskenler.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\9.char_degiskenler\\9.char_degiskenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6F416EB5-8413-48D5-8876-CA4D35C6EF6B}|9.char_degiskenler\\9.char_degiskenler.csproj|solutionrelative:9.char_degiskenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F416EB5-8413-48D5-8876-CA4D35C6EF6B}|9.char_degiskenler\\9.char_degiskenler.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\9.char_degiskenler\\9.char_degiskenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F416EB5-8413-48D5-8876-CA4D35C6EF6B}|9.char_degiskenler\\9.char_degiskenler.csproj|solutionrelative:9.char_degiskenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\9.char_degiskenler\\9.char_degiskenler\\Form1.cs",
               "RelativeDocumentMoniker": "9.char_degiskenler\\Form1.cs",
               "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\9.char_degiskenler\\9.char_degiskenler\\Form1.cs",
               "RelativeToolTip": "9.char_degiskenler\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T21:18:26.573Z",
               "IsPinned": true,
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\9.char_degiskenler\\9.char_degiskenler\\Form1.cs",
               "RelativeDocumentMoniker": "9.char_degiskenler\\Form1.cs",

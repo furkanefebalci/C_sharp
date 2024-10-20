@@ -26,19 +26,22 @@ namespace _17.time_odev
         {
             sayac++;
             label1.Text = sayac.ToString();
-            if( sayac == 35 )
+            if( sayac == 10 )
             {
                 this.BackColor = Color.Red; 
             }
-            if( sayac == 50 )
+            if( sayac == 20 )
             {
                 this.BackColor = Color.Yellow;
             }
-            if ( sayac == 60)
+            if ( sayac == 35)
             {
                 this.BackColor= Color.Green;
             }
+            if ( sayac == 50)
+            {
+                sayac = 0;
+            }
         }
-
     }
 }

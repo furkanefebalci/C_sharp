@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E351636-733A-4520-B016-AC5D19F11CE2}|16.do_while_donguleri\\16.do_while_donguleri.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7E351636-733A-4520-B016-AC5D19F11CE2}|16.do_while_donguleri\\16.do_while_donguleri.csproj|solutionrelative:16.do_while_donguleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E351636-733A-4520-B016-AC5D19F11CE2}|16.do_while_donguleri\\16.do_while_donguleri.csproj|c:\\users\\furka\\onedrive\\masa\u00FCst\u00FC\\github\\c#\\c_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E351636-733A-4520-B016-AC5D19F11CE2}|16.do_while_donguleri\\16.do_while_donguleri.csproj|solutionrelative:16.do_while_donguleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E351636-733A-4520-B016-AC5D19F11CE2}|16.do_while_donguleri\\16.do_while_donguleri.csproj|C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E351636-733A-4520-B016-AC5D19F11CE2}|16.do_while_donguleri\\16.do_while_donguleri.csproj|solutionrelative:16.do_while_donguleri\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\Form1.cs",
               "RelativeDocumentMoniker": "16.do_while_donguleri\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\Form1.cs*",
-              "RelativeToolTip": "16.do_while_donguleri\\Form1.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAUAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\Form1.cs",
+              "RelativeToolTip": "16.do_while_donguleri\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T19:10:45.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\Form1.cs",
               "RelativeDocumentMoniker": "16.do_while_donguleri\\Form1.cs",
-              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\Form1.cs [Design]*",
-              "RelativeToolTip": "16.do_while_donguleri\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\furka\\OneDrive\\Masa\u00FCst\u00FC\\github\\C#\\C_sharp\\16.do_while_donguleri\\16.do_while_donguleri\\Form1.cs [Design]",
+              "RelativeToolTip": "16.do_while_donguleri\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T19:07:26.92Z",
               "EditorCaption": " [Design]"
